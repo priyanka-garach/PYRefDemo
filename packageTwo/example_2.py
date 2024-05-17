@@ -8,3 +8,6 @@ class example_class_child(example_class):
 
     def methodA(self):
         obj = a + func(c)
+
+    def methodB(self, abc1):
+        print(0)
