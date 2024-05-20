@@ -3,7 +3,7 @@
 
 ### New Packages
 - Two new packages named `packageOne` and `packageTwo` have been created within the PyRefDemo folder.
-- Each package contains one python file.
+- Each package contains one python file. <br/> packageOne contains example1.py <br/> packageTwo contains example_2.py
 
 ## Changes inside PyRef directory
 ### File: refactoring_heuristics.py
