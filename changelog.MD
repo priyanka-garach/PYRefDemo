@@ -1,6 +1,6 @@
 ## New git repository created named PYRefDemo
 ## PyRefDemo Folder Changes
-<br/>
+
 ## New Packages
 - Two new packages named `packageOne` and `packageTwo` have been created within the PyRefDemo folder.
 - Each package contains one python file.
