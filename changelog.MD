@@ -1,11 +1,11 @@
 ## New git repository created named PYRefDemo
-## PyRefDemo Folder Changes
+## Changes inside PyRefDemo directory
 
 ## New Packages
 - Two new packages named `packageOne` and `packageTwo` have been created within the PyRefDemo folder.
 - Each package contains one python file.
 
-# PyRef Folder Changes
+## Changes inside PyRef directory
 ## File: refactoring_heuristics.py
 - New method `move_method_across_packages(diff_common_element)` has been created.
 - Changes have been made in the `move_method_ref` function to enable a call from the `move_method_across_packages` function.
